@@ -1,7 +1,6 @@
 **Overview**
 This project analyzes customer service interactions for a telecom company to uncover insights into customer satisfaction (CSAT), agent performance, and call center operations.
 The goal is to identify key drivers of customer experience and provide actionable recommendations to improve service quality and operational efficiency.
-<img width="1283" height="722" alt="image" src="https://github.com/user-attachments/assets/37f944c1-3d43-489f-a8f0-f3e4dd69ffc9" />
 
 **Dataset Description**
 The dataset includes three main components:
